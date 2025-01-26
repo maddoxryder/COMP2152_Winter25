@@ -1,3 +1,7 @@
+# Maddox Duggan
+# 101483006
+# January 19, 2025
+
 # Import the random library to use for the dice
 import random
 
